@@ -152,3 +152,7 @@ RESPONSE_MESSAGE_FOLLOWS "302 MESSAGE FOLLOWS\r\n"
 > Jun-ichiro itojun Hagino, "IPv6 Network Programming" (Elsevier, 2005)
 
 所収のサンプルをそっくりまねている。この本は IPv6 の存在を前提とし、v4/v6 デュアルスタック環境で自然に動作するプログラミングを解説した今も少ないテキストとして貴重。著者は Kame プロジェクトなどでIPv6 開発をリードし、itojun として世界的に知られた優れたプログラマ、研究者だったが、惜しくも 2007 年に亡くなった。その功績を記念するため、IPv6の発展に寄与した人物を表彰するItojun Service Award http://www.internetsociety.org/what-we-do/grants-and-awards/awards/itojun-service-award が設けられている。
+
+# おまけ
+
+同梱の`msgbot.py`は`msgbd-server`に接続するbot。
